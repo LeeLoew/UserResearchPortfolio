@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/UserResearchPortfolio/static/css/main.1316533d.css",
+    "main.js": "/UserResearchPortfolio/static/js/main.0ba776ff.js",
+    "static/css/64.bba8fa55.chunk.css": "/UserResearchPortfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/UserResearchPortfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/UserResearchPortfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/UserResearchPortfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/villanova.png": "/UserResearchPortfolio/static/media/villanova.901ecbc83f420ae171db.png",
+    "static/media/Montserrat-Regular.ttf": "/UserResearchPortfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/delawarelogo.png": "/UserResearchPortfolio/static/media/delawarelogo.d2de10c8e745f775d403.png",
+    "static/media/Agustina.woff": "/UserResearchPortfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/temple.png": "/UserResearchPortfolio/static/media/temple.a725f03ed81dfb7b1bda.png",
+    "static/media/manOnTable.svg": "/UserResearchPortfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/drexelLogo.png": "/UserResearchPortfolio/static/media/drexelLogo.8c8224dd1a15a091dc12.png",
+    "static/media/contactMailDark.svg": "/UserResearchPortfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/UserResearchPortfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/UserResearchPortfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/UserResearchPortfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/UserResearchPortfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/UserResearchPortfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "static/media/pwaLogo.webp": "/UserResearchPortfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/UserResearchPortfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/UserResearchPortfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/UserResearchPortfolio/index.html",
+    "static/media/talksCardBack.svg": "/UserResearchPortfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.1316533d.css.map": "/UserResearchPortfolio/static/css/main.1316533d.css.map",
+    "main.0ba776ff.js.map": "/UserResearchPortfolio/static/js/main.0ba776ff.js.map",
+    "64.bba8fa55.chunk.css.map": "/UserResearchPortfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/UserResearchPortfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/UserResearchPortfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/UserResearchPortfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1316533d.css",
+    "static/js/main.0ba776ff.js"
+  ]
+}
